@@ -11,7 +11,7 @@ Welcome to ProfitPad support. We're here to help you get the most out of the app
 For any questions, issues, or feedback:
 
 - **Email**: studio-7.dev@protonmail.com
-- **Response Time**: We aim to respond within 1–2 business days
+- **Response Time**: We aim to respond within 7–10 business days
 
 ---
 
