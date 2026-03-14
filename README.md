@@ -13,6 +13,7 @@ These documents are hosted on GitHub Pages and served at:
 
 - Privacy Policy: `https://studio-7-dev.github.io/profitpad-legal/privacy`
 - Terms of Service: `https://studio-7-dev.github.io/profitpad-legal/terms`
+- Support: `https://studio-7-dev.github.io/profitpad-legal/support`
 
 *Note: These URLs will be embedded in the ProfitPad mobile app and linked in App Store/Play Store listings.*
 
@@ -22,6 +23,7 @@ These documents are hosted on GitHub Pages and served at:
 |----------|--------------|--------|
 | Privacy Policy | February 21, 2026 | ✅ Active |
 | Terms of Service | February 21, 2026 | ✅ Active |
+| Support | March 14, 2026 | ✅ Active |
 
 ## ⚙️ Configuration
 
