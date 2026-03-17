@@ -1,6 +1,6 @@
 # Terms of Service for ProfitPad
 
-**Last Updated:** February 21, 2026
+**Last Updated:** March 17, 2026
 
 ## 1. Acceptance of Terms
 
@@ -119,7 +119,7 @@ IN NO EVENT SHALL PROFITPAD BE LIABLE FOR:
 
 ## 9. Indemnification
 
-You agree to indemnify and hold harmless ProfitPad from:
+You agree to indemnify and hold harmless the developer of ProfitPad from:
 - Claims arising from your use of the App
 - Violation of these Terms
 - Violation of laws or others' rights
@@ -175,9 +175,9 @@ Upon termination:
 
 ## 14. Governing Law
 
-These Terms are governed by the laws of [Your Country/State], without regard to conflicts of law principles.
+These Terms are governed by the laws of Victoria, Australia, without regard to conflicts of law principles.
 
-Any legal action must be brought in the courts located in [Your Jurisdiction].
+Any legal action must be brought in the courts located in Victoria, Australia.
 
 ## 15. Dispute Resolution
 
@@ -185,10 +185,10 @@ Any legal action must be brought in the courts located in [Your Jurisdiction].
 Before legal action, we both agree to:
 - Send a written notice describing the dispute
 - Attempt to resolve it within 30 days
-- Contact: disputes@profitpad.app
+- Contact: studio-7.dev@protonmail.com
 
 ### 15.2 Arbitration
-If informal resolution fails, disputes will be resolved through binding arbitration rather than court, under rules of [Arbitration Association].
+If informal resolution fails, disputes will be resolved through binding arbitration rather than court, under the laws of Victoria, Australia.
 
 ### 15.3 Exceptions
 Intellectual property claims and injunctive relief may be brought in court without arbitration.
@@ -204,9 +204,8 @@ These Terms constitute the entire agreement between you and ProfitPad regarding 
 ## 18. Contact Us
 
 For questions about these Terms:
-- **Email**: legal@profitpad.app
-- **Support**: https://profitpad.app/support
-- **Mailing Address**: [Your Address]
+- **Email**: studio-7.dev@protonmail.com
+- **Support**: https://studio-7-dev.github.io/profitpad-legal/support
 
 ---
 
@@ -229,4 +228,4 @@ For questions about these Terms:
 
 ---
 
-*These Terms of Service are effective as of February 21, 2026.*
+*These Terms of Service are effective as of March 17, 2026.*

@@ -1,10 +1,10 @@
 # Privacy Policy for ProfitPad
 
-**Last Updated:** February 21, 2026
+**Last Updated:** March 17, 2026
 
 ## Introduction
 
-ProfitPad ("**we**", "**us**", "**our**", or "**Company**") operates the ProfitPad mobile application (the "**App**").
+ProfitPad ("**we**", "**us**", or "**our**") is operated as a sole trader and is the developer of the ProfitPad mobile application (the "**App**").
 
 This Privacy Policy explains our practices regarding the collection, use, and protection of your information when you use our App.
 
@@ -107,7 +107,7 @@ You have the right to:
 - **Portability**: Export your data
 - **Opt-out**: Disable analytics or optional features
 
-To exercise these rights, contact: [your-email@profitpad.app]
+To exercise these rights, contact: studio-7.dev@protonmail.com
 
 ## 10. Changes to This Policy
 
@@ -118,9 +118,8 @@ Continued use of the App after changes constitutes acceptance of the updated pol
 ## 11. Contact Us
 
 For privacy concerns or questions:
-- **Email**: privacy@profitpad.app
-- **Support**: https://profitpad.app/support
-- **Company**: ProfitPad
+- **Email**: studio-7.dev@protonmail.com
+- **Support**: https://studio-7-dev.github.io/profitpad-legal/support
 
 ---
 
@@ -137,4 +136,4 @@ For privacy concerns or questions:
 
 ---
 
-*This Privacy Policy is effective as of February 21, 2026.*
+*This Privacy Policy is effective as of March 17, 2026.*
